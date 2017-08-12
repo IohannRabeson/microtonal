@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool>
+  <ApiVersion>5</ApiVersion>
+  <Id>com.lpo.microtonal</Id>
+  <Version>1.00</Version>
+  <Name>Microtonal</Name>
+  <Author>iota [iotaka6@gmail.com]</Author>
+  <Description>A microtonal instrument generator based.</Description>
+  <Category>Microtonal</Category>
+  <Homepage>http://soundcloud.com/le-perche-oreille</Homepage>
+</RenoiseScriptingTool>
